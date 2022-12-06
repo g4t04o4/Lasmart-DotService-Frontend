@@ -1,0 +1,17 @@
+{
+  "name": "lasmart-dotservice-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "konva": "^8.3.14",
+    "parcel": "^2.8.0"
+  }
+}
